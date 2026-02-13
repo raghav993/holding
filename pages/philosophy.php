@@ -1,0 +1,3 @@
+<?php
+// Philosophy page content
+?>

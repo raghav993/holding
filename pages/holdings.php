@@ -1,0 +1,3 @@
+<?php
+// Holdings page content
+?>

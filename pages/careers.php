@@ -1,0 +1,3 @@
+<?php
+// Careers page content
+?>
